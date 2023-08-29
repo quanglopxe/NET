@@ -67,7 +67,7 @@ namespace DuongThuanQuang_Bai3
         public double tinhDienTich()
         {
             double p = tinhChuVi() / 2;
-            return Math.Sqrt((p * (p - mA) * (p - mB) * (p - mC)));
+            return Math.Sqrt(p * (p - mA) * (p - mB) * (p - mC));
         }
         public string loaiTamGiac()
         {
