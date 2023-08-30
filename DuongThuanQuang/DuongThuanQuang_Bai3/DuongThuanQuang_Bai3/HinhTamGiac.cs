@@ -8,7 +8,7 @@ namespace DuongThuanQuang_Bai3
 {
     class HinhTamGiac
     {
-        protected int mA, mB, mC;
+        private int mA, mB, mC;
 
         public int MC
         {

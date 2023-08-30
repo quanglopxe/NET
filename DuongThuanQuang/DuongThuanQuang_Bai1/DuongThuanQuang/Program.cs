@@ -10,7 +10,7 @@ namespace DuongThuanQuang
     {
         static void Main(string[] args)
         {
-            toaDo td = new toaDo();
+            ToaDo td = new ToaDo();
             Console.Write("Nhap ten toa do: ");
             td.Ten = Console.ReadLine();
             Console.Write("Nhap toa do x: ");

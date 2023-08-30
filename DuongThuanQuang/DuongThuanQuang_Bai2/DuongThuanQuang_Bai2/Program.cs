@@ -21,7 +21,7 @@ namespace DuongThuanQuang_Bai2
             sv3.DiemLT = double.Parse(Console.ReadLine());
             Console.Write("Nhap diem thuc hanh: ");
             sv3.DiemTH = double.Parse(Console.ReadLine());
-            Console.Write("Ma SV\t\tHo ten\t\t\tDiem Ly thuyet\tDiem thuc hanh\tDiem trung binh");
+            Console.Write("Ma SV\t\t\tHo ten\t\t\tDiem Ly thuyet\tDiem thuc hanh\tDiem trung binh");
             sv1.toString();
             sv2.toString();
             sv3.toString();

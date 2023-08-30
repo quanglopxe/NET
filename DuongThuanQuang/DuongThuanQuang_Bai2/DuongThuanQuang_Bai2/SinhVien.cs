@@ -8,9 +8,9 @@ namespace DuongThuanQuang_Bai2
 {
     class SinhVien
     {
-        protected int maSV;
-        protected string hoTen;
-        protected double diemLT, diemTH;
+        private int maSV;
+        private string hoTen;
+        private double diemLT, diemTH;
         public int MaSV
         {
             get { return maSV; }
@@ -70,7 +70,7 @@ namespace DuongThuanQuang_Bai2
         }
         public void toString()
         {
-            Console.Write("\n{0}\t{1}\t{2}\t\t{3}\t\t{4}",maSV,hoTen,diemLT,diemTH,tinhDTB());
+            Console.Write(string.Format("\n{0,-20}{1,-30}{2,-15}{3,-15}{4,0}",maSV,hoTen,diemLT,diemTH,tinhDTB()));
         }
     }
 }

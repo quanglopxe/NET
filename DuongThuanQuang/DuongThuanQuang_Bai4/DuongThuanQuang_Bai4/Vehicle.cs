@@ -8,10 +8,10 @@ namespace DuongThuanQuang_Bai4
 {
     class Vehicle
     {
-        protected string chuXe;
-        protected string loaiXe;
-        protected int triGiaXe;
-        protected int dungTich;
+        private string chuXe;
+        private string loaiXe;
+        private int triGiaXe;
+        private int dungTich;
 
         public string ChuXe
         {

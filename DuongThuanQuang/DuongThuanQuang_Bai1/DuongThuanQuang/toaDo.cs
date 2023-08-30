@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace DuongThuanQuang
 {
-    class toaDo
+    class ToaDo
     {
-        protected int x, y;
-        protected string ten;
+        private int x, y;
+        private string ten;
         public int X
         {
             get { return x; }
@@ -25,13 +25,13 @@ namespace DuongThuanQuang
             get { return ten; }
             set { ten = value; }
         }
-        public toaDo()
+        public ToaDo()
         {
             this.x = 0;
             this.y = 0;
             this.ten = null;
         }
-        public toaDo(int x,int y,string ten)
+        public ToaDo(int x,int y,string ten)
         {
             this.x = x;
             this.y = y;

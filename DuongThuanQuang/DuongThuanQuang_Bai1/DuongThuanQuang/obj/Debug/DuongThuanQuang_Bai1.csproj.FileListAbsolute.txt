@@ -4,3 +4,9 @@ E:\LuuDuLieuSinhVien\DuongThuanQuang\DuongThuanQuang\DuongThuanQuang\obj\Debug\D
 F:\NET\DuongThuanQuang\DuongThuanQuang_Bai1\DuongThuanQuang\bin\Debug\DuongThuanQuang.exe.config
 F:\NET\DuongThuanQuang\DuongThuanQuang_Bai1\DuongThuanQuang\obj\Debug\DuongThuanQuang.exe
 F:\NET\DuongThuanQuang\DuongThuanQuang_Bai1\DuongThuanQuang\obj\Debug\DuongThuanQuang.pdb
+E:\NET\DuongThuanQuang\DuongThuanQuang_Bai1\DuongThuanQuang\bin\Debug\DuongThuanQuang.exe.config
+E:\NET\DuongThuanQuang\DuongThuanQuang_Bai1\DuongThuanQuang\obj\Debug\DuongThuanQuang.exe
+E:\NET\DuongThuanQuang\DuongThuanQuang_Bai1\DuongThuanQuang\obj\Debug\DuongThuanQuang.pdb
+E:\NET\DuongThuanQuang\DuongThuanQuang_Bai1\DuongThuanQuang\bin\Debug\DuongThuanQuang.exe
+E:\NET\DuongThuanQuang\DuongThuanQuang_Bai1\DuongThuanQuang\bin\Debug\DuongThuanQuang.pdb
+E:\NET\DuongThuanQuang\DuongThuanQuang_Bai1\DuongThuanQuang\obj\Debug\DuongThuanQuang_Bai1.csprojResolveAssemblyReference.cache
